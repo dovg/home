@@ -1,0 +1,14 @@
+[user]
+ email = dovg@dovg.ru
+ name = Evgeniy V. Kokovikhin
+[core]
+ editor = vim
+[alias]
+ co = checkout
+ br = branch
+ ci = commit
+ st = status
+ di = diff --color
+
+[color]
+ ui = true

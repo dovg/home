@@ -102,5 +102,4 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
 
-export GREP_OPTIONS='--color=auto --exclude-dir=.svn --exclude-dir=.git'
 export EDITOR=vim

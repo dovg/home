@@ -12,3 +12,7 @@
 
 [color]
  ui = true
+[merge]
+	ff = false
+[pull]
+	rebase = true
